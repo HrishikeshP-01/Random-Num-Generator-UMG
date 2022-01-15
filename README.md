@@ -1,9 +1,9 @@
 # Rnd No: Generator using C++ UMG 
 ## Beginning UE4 UI Programming
-**Objective - ** I wanted to start learning UI programming using C++ in UE4 and the random number
+**Objective -** I wanted to start learning UI programming using C++ in UE4 and the random number
 generator is like the hello world of UI programming.
 </br>
-**Workflow - ** 
+**Workflow -** 
 - Created a subclass of UserWidget and defined 2 widget pointers 1 for the text block
 and other for the button.
 - Created a function to generate random numbers and to update the text block value.
