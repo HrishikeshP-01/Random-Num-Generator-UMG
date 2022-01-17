@@ -1,4 +1,4 @@
-# Rnd No: Generator using C++ UMG 
+# UI Programming - Rnd No: Generator using C++ UMG 
 ## Beginning UE4 UI Programming
 **Objective -** I wanted to start learning UI programming using C++ in UE4 and the random number
 generator is like the hello world of UI programming.
